@@ -1,0 +1,4 @@
+Input: abcdefG1, Ouput: 1
+Input: CCDDEExy, Ouput: 
+Input: 1234567b, Ouput: 1234567
+Input: 8665, Ouput: 8665
